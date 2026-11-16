@@ -1,0 +1,4 @@
+﻿  PZ1.c
+D:\Visual Studio Progect\LAB\KP\KP\PZ1.c(33,5): warning C4013: SetConsoleCP: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Visual Studio Progect\LAB\KP\KP\PZ1.c(34,5): warning C4013: SetConsoleOutputCP: нет определения; предполагается "extern" с возвратом типа "int"
+  KP.vcxproj -> D:\Visual Studio Progect\LAB\KP\x64\Debug\KP.exe
